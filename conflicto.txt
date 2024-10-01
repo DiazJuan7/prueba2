@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nuevo fichero
+=======
+otro fichero
+>>>>>>> rama2
